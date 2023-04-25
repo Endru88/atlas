@@ -1,0 +1,22 @@
+h5{
+    font-size: 100%;
+    background-color:rgb(118, 118, 118);
+    padding: 5px;
+}
+h5 a {
+    color: white;
+    text-decoration: none;
+}
+p.small{
+    font-size: 0,8em;
+}
+body{
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/001/928/399/large/weiye-qiu-4.jpg?1454706553);
+}
+p{
+color: rgb(137, 137, 137);
+}
+.color{
+    background-color: rgba(46, 45, 45, 0.355);
+    margin:5px;
+}
